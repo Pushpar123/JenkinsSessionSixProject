@@ -9,12 +9,12 @@ public class BrowserFactory {
 	static WebDriver driver;
 
 	public static  WebDriver init() {
-		System.setProperty("webdriver.chrome.driver", ".\\Driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", ".\\driverNew\\chromedriver.exe");
 	  driver = new ChromeDriver();
 	  
 	  driver.manage().window().maximize();
 	  driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-	  driver.get("http://www.techfios.com/ibilling/?ng=admin/");
+	  driver.get("http://www.techfios.com/billing/?ng=admin/");
 	return driver;	
 		
 
