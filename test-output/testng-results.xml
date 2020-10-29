@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14831" started-at="2020-10-28T05:03:28Z" finished-at="2020-10-28T05:03:42Z">
+  <suite name="Default suite" duration-ms="18369" started-at="2020-10-28T20:28:24 CDT" finished-at="2020-10-28T20:28:42 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14831" started-at="2020-10-28T05:03:28Z" finished-at="2020-10-28T05:03:42Z">
+    <test name="Default test" duration-ms="18369" started-at="2020-10-28T20:28:24 CDT" finished-at="2020-10-28T20:28:42 CDT">
       <class name="Test1.AddcustomerTest">
-        <test-method status="PASS" signature="ValidUserShouldBeAbleToAddCustomer()[pri:0, instance:Test1.AddcustomerTest@35083305]" name="ValidUserShouldBeAbleToAddCustomer" duration-ms="14799" started-at="2020-10-28T05:03:28Z" finished-at="2020-10-28T05:03:42Z">
+        <test-method status="PASS" signature="ValidUserShouldBeAbleToAddCustomer()[pri:0, instance:Test1.AddcustomerTest@3a883ce7]" name="ValidUserShouldBeAbleToAddCustomer" duration-ms="18311" started-at="2020-10-28T20:28:24 CDT" finished-at="2020-10-28T20:28:42 CDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidUserShouldBeAbleToAddCustomer -->
